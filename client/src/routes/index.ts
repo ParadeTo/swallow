@@ -1,4 +1,4 @@
-import Generate from '../pages/generate/Index'
+import Generate from '../pages/Generate/Index'
 
 const routes = [
   {
